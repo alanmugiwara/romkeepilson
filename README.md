@@ -1,7 +1,7 @@
 [![made Language {generic badge}](https://img.shields.io/badge/Made%20with-Python%203-8A2BE2)](https://github.com/alanmugiwara)
 [![create date](https://badges.pufler.dev/created/alanmugiwara/romkeepilson?color=8A2BE2)](https://github.com/alanmugiwara)
 [![last update date](https://badges.pufler.dev/Updated/alanmugiwara/romkeepilson?color=8A2BE2)](https://github.com/alanmugiwara)
-[![Commits Badge](https://img.shields.io/github/commit-activity/y/alanmugiwara/romkeepilson.svg?color=8A2BE2)](https://github.com/alanmugiwara)
+[![Commits Badge](https://img.shields.io/github/commit-activity/m/alanmugiwara/romkeepilson.svg?color=8A2BE2)](https://github.com/alanmugiwara)
 
 [![contributors](https://img.shields.io/github/contributors/alanmugiwara/romkeepilson?color=8A2BE2)](https://github.com/alanmugiwara)
 [![issues counter](https://img.shields.io/github/issues/alanmugiwara/romkeepilson?color=8A2BE2)](https://github.com/alanmugiwara)
